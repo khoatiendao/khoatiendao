@@ -1,5 +1,6 @@
 
 <!-- khoatiendao -->
+## Hi there! 
 <a href="#" target="_blank">
     <img src="svg/khoatiendao.svg" width="1200" alt="khoatiendao" />
 </a>
@@ -27,6 +28,8 @@
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql&logoColor=FFFFFF" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
