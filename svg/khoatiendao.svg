@@ -12,6 +12,7 @@
                   }
                   
                   .wrapper{
+                    height: 560px;
                     display: table-cell;
                     vertical-align: middle;
                     position: relative;
