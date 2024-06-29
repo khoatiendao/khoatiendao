@@ -18,7 +18,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=2F2625" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=FFFFFF" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Springboot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
 &nbsp;
