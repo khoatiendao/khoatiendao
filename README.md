@@ -1,6 +1,6 @@
 
 <!-- khoatiendao -->
-<h2 align="center">Hi there! </h2>
+<h2 align="center"> Anh Khoa 👉 Backend Developer 💪 </h2>
 <a href="#" target="_blank">
     <img src="svg/khoatiendao.svg" width="1200" alt="khoatiendao" />
 </a>
