@@ -8,7 +8,7 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="50" width="80" /></span>
+<span><img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="50" width="80" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="50" width="40" /></span>
 &nbsp;
